@@ -1,0 +1,11 @@
+# Don't save project configuration files, except .gitignore
+.*
+!.gitignore
+
+# IntelliJ project files
+*.iml
+
+# Maven stuff
+dependency-reduced-pom.xml
+target
+
