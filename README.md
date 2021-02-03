@@ -36,3 +36,6 @@ Maven build of the application (downloading Maven first, if necessary).
 The application runs with default parameters, but if you want to see the supported parameters, call
 
     ./json-organizer.sh --help
+    
+Note: this application requires a bash shell to run.
+On Windows, you will probably need to install WSL to get it to run.
